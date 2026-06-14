@@ -3,8 +3,8 @@ import crypto from 'crypto';
 const ALLOWED_ORIGIN = 'https://your-site.com';
 const API_SECRET = 'SUPER_SECRET_TOKEN';
 
-const FIREBASE_LICENSE_URL = 'https://PROJECT.firebaseio.com/licenses';
-const FIREBASE_AUTH_TOKEN = 'FIREBASE_SECRET';
+const FIREBASE_LICENSE_URL = 'https://amprousers-default-rtdb.firebaseio.com';
+const FIREBASE_AUTH_TOKEN = '1hI1zkAiGvtkQEXwlbV8bm63qgtcIiythBTK5Z3I';
 
 const SUPABASE_URL = 'https://YOUR_SUPABASE_URL';
 const SUPABASE_KEY = 'YOUR_SUPABASE_SERVICE_KEY';
