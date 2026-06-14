@@ -54,7 +54,7 @@
     --sidebar-border: 217 33% 17%;
     --sidebar-ring: 221 83% 53%;
 
-    --gradient-primary: linear-gradient(135deg, hsl(221 83% 53%), hsl(217 91% 60%));
+   --gradient-primary: linear-gradient(135deg, hsl(288, 100%, 25%), hsl(288 100% 40%));
     --gradient-success: linear-gradient(135deg, hsl(142 76% 36%), hsl(152 76% 40%));
     --gradient-danger: linear-gradient(135deg, hsl(0 84% 60%), hsl(20 84% 55%));
     --gradient-dark: linear-gradient(135deg, hsl(222 47% 11%), hsl(217 33% 17%));
